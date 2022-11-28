@@ -15,7 +15,7 @@ header{
     text-align:start;
 }
 main{
-    /*background-image: radial-gradient(circle, #b42f71, #9f2574, #881e77, #6e1b78, #511b77, #392575, #202a6f, #002c66, #002f52, #002b35, #08231f, #181b18);*/
+    background-image: radial-gradient(circle, #b42f71, #9f2574, #881e77, #6e1b78, #511b77, #392575, #202a6f, #002c66, #002f52, #002b35, #08231f, #181b18);
     display: flex;
     flex-direction: row;
     justify-content: center;
